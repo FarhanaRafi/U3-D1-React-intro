@@ -20,7 +20,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          View More
+          <ButtonComponent buttonText="View more" buttonCss="button-link" />
         </a>
       </header>
     </div>
